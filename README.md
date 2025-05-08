@@ -4,48 +4,15 @@
 
 Information Technology - Cybersecurity Student
 
-## Astro Commands
 
-All commands are run from the root of the project, from a terminal:
+## Resume Profile
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+Currently pursuing a Bachelor of Science in Information Technology & Networking with a focus on Cybersecurity, I am a results-driven cybersecurity professional with a solid foundation in information systems and ethical hacking. My hands-on experience includes a resolution coordination role at Walmart, where I have accumulated six years of expertise in technical support and problem-solving.
 
-## Deploying to Netlify
+Key strengths include:
+- Proficiency in APIs, JSON, and XML.
+- Proven ability to apply critical thinking and technical skills in data management and API integration.
+- Collaboration with engineers to identify and resolve issues within Walmart's API platform.
+- Expertise in navigating complex security challenges.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/astro-platform-starter)
-
-## Developing Locally
-
-| Prerequisites                                                                |
-| :--------------------------------------------------------------------------- |
-| [Node.js](https://nodejs.org/) v18.14+.                                      |
-| (optional) [nvm](https://github.com/nvm-sh/nvm) for Node version management. |
-
-1. Clone this repository, then run `npm install` in its root directory.
-
-2. For the starter to have full functionality locally (e.g. edge functions, blob store), please ensure you have an up-to-date version of Netlify CLI. Run:
-
-```
-npm install netlify-cli@latest -g
-```
-
-3. Link your local repository to the deployed Netlify site. This will ensure you're using the same runtime version for both local development and your deployed site.
-
-```
-netlify link
-```
-
-4. Then, run the Astro.js development server via Netlify CLI:
-
-```
-netlify dev
-```
-
-If your browser doesn't navigate to the site automatically, visit [localhost:8888](http://localhost:8888).
+I am seeking to leverage my experience and skills as an **Information Security Analyst** or **Cybersecurity Engineer** in a dynamic cybersecurity environment.
